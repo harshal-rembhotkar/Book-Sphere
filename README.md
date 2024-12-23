@@ -93,7 +93,8 @@ The Bookstore Management API is a simple RESTful service built with Go. It provi
 - **Method**: `DELETE`
 - **Response**:
   ```json
-  {
+   {
+    "ID": 1,
     "message": "Book deleted successfully"
   }
   ```

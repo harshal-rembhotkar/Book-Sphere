@@ -1,6 +1,6 @@
-# Bookstore-Management-api
+# Book Sphere
 
-The Bookstore Management API is a simple RESTful service built with Go. It provides CRUD operations for managing a collection of books, including creating, reading, updating, and deleting book records.
+The Book Sphere is a simple RESTful service built with Go. It provides CRUD operations for managing a collection of books, including creating, reading, updating, and deleting book records.
 
 ## Features
 
@@ -103,12 +103,12 @@ The Bookstore Management API is a simple RESTful service built with Go. It provi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshal-rembhotkar/bookstore-management-api.git
+   git clone https://github.com/harshal-rembhotkar/Book Sphere-api.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd bookstore-management-api
+   cd Book Sphere
    ```
 
 3. Install dependencies:

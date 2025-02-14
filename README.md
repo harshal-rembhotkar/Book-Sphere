@@ -103,7 +103,7 @@ The Book Sphere is a simple RESTful service built with Go. It provides CRUD oper
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshal-rembhotkar/BooK-Sphere-api.git
+   git clone https://github.com/harshal-rembhotkar/BooK-Sphere.git
    ```
 
 2. Navigate to the project directory:
